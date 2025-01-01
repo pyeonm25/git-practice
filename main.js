@@ -6,3 +6,4 @@ function addNums( num1, num2){
 }
 
 addNums(num1,num2);
+addNums(100,200);
